@@ -1,5 +1,5 @@
 import unittest
-from hashing import Hashing
+from hashing.hashing import Hashing
 
 class TestHashing(unittest.TestCase):
     def test_sha256(self):
